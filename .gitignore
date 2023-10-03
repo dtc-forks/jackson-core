@@ -23,3 +23,7 @@ syntax: glob
 *.iws
 /.idea/
 dependency-reduced-pom.xml
+
+red4j-data/
+**/cp.txt
+**.java.orig
